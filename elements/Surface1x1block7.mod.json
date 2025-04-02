@@ -1,0 +1,36 @@
+{
+  "_fv": 33,
+  "_type": "structure",
+  "definition": {
+    "structure": "swamp1x1_ferns2",
+    "randomlyRotateStructure": false,
+    "surfaceDetectionType": "First block",
+    "spawnProbability": 1000000,
+    "minCountPerChunk": 3,
+    "maxCountPerChunk": 16,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 1,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "Blocks.GRASS"
+      },
+      {
+        "value": "Blocks.DIRT#0"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "swamp"
+      },
+      {
+        "value": "mutated_swampland"
+      }
+    ],
+    "ignoreBlocks": "AIR_AND_STRUCTURE_BLOCK"
+  }
+}

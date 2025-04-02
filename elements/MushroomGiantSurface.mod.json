@@ -1,0 +1,57 @@
+{
+  "_fv": 33,
+  "_type": "structure",
+  "definition": {
+    "structure": "plains5x7_mushroom",
+    "randomlyRotateStructure": false,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 50000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 2,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 1,
+    "spawnXOffset": -2,
+    "spawnZOffset": -2,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "Blocks.GRASS"
+      },
+      {
+        "value": "Blocks.DIRT#2"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "mutated_forest"
+      },
+      {
+        "value": "forest"
+      },
+      {
+        "value": "forest_hills"
+      },
+      {
+        "value": "birch_forest"
+      },
+      {
+        "value": "birch_forest_hills"
+      },
+      {
+        "value": "mutated_redwood_taiga"
+      },
+      {
+        "value": "mutated_redwood_taiga_hills"
+      },
+      {
+        "value": "redwood_taiga"
+      },
+      {
+        "value": "redwood_taiga_hills"
+      }
+    ],
+    "ignoreBlocks": "AIR_AND_STRUCTURE_BLOCK"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "_fv": 33,
+  "_type": "structure",
+  "definition": {
+    "structure": "desert1x1_rocksmall",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 70000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 8,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 1,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "Blocks.SAND#0"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "desert"
+      },
+      {
+        "value": "desert_hills"
+      },
+      {
+        "value": "mutated_desert"
+      }
+    ],
+    "ignoreBlocks": "AIR_AND_STRUCTURE_BLOCK"
+  }
+}

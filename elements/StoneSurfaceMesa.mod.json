@@ -1,0 +1,51 @@
+{
+  "_fv": 33,
+  "_type": "structure",
+  "definition": {
+    "structure": "badlands-1x-1_rock",
+    "randomlyRotateStructure": false,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 200000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 16,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 0,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "Blocks.SAND#1"
+      },
+      {
+        "value": "Blocks.DIRT#1"
+      },
+      {
+        "value": "Blocks.STAINED_HARDENED_CLAY#0"
+      },
+      {
+        "value": "Blocks.STAINED_HARDENED_CLAY#1"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "badlands"
+      },
+      {
+        "value": "badlands_plateau"
+      },
+      {
+        "value": "mutated_mesa"
+      },
+      {
+        "value": "mutated_mesa_rock"
+      },
+      {
+        "value": "wooded_badlands_plateau"
+      }
+    ],
+    "ignoreBlocks": "AIR_AND_STRUCTURE_BLOCK"
+  }
+}

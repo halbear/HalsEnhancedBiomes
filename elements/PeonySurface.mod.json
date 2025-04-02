@@ -1,0 +1,51 @@
+{
+  "_fv": 33,
+  "_type": "structure",
+  "definition": {
+    "structure": "flowers1x2_peony",
+    "randomlyRotateStructure": false,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 300000,
+    "minCountPerChunk": 2,
+    "maxCountPerChunk": 16,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 1,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "Blocks.GRASS"
+      },
+      {
+        "value": "Blocks.MYCELIUM"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "birch_forest"
+      },
+      {
+        "value": "birch_forest_hills"
+      },
+      {
+        "value": "mutated_birch_forest"
+      },
+      {
+        "value": "mutated_birch_forest_hills"
+      },
+      {
+        "value": "mutated_forest"
+      },
+      {
+        "value": "mushroom_field_shore"
+      },
+      {
+        "value": "mushroom_fields"
+      }
+    ],
+    "ignoreBlocks": "AIR_AND_STRUCTURE_BLOCK"
+  }
+}

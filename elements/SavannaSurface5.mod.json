@@ -1,0 +1,39 @@
+{
+  "_fv": 33,
+  "_type": "structure",
+  "definition": {
+    "structure": "savanna1x1_fernssmall",
+    "randomlyRotateStructure": false,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 1000000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 16,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 1,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "Blocks.GRASS"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "savanna"
+      },
+      {
+        "value": "savanna_rock"
+      },
+      {
+        "value": "mutated_savanna"
+      },
+      {
+        "value": "mutated_savanna_rock"
+      }
+    ],
+    "ignoreBlocks": "AIR_AND_STRUCTURE_BLOCK"
+  }
+}

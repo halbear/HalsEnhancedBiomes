@@ -1,0 +1,36 @@
+{
+  "_fv": 33,
+  "_type": "structure",
+  "definition": {
+    "structure": "plains15x19_oaktree",
+    "randomlyRotateStructure": false,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 300000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 4,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 1,
+    "spawnXOffset": -7,
+    "spawnZOffset": -7,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "Blocks.GRASS"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "mutated_forest"
+      },
+      {
+        "value": "forest"
+      },
+      {
+        "value": "forest_hills"
+      }
+    ],
+    "ignoreBlocks": "AIR_AND_STRUCTURE_BLOCK"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "red_mushroom_block"
+      },
+      "name": "default"
+    }
+  }
+}

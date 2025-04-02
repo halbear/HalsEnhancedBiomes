@@ -1,0 +1,33 @@
+{
+  "_fv": 33,
+  "_type": "structure",
+  "definition": {
+    "structure": "tallbirch1x4_bamboo2",
+    "randomlyRotateStructure": false,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 400000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 10,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 1,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "Blocks.GRASS"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "mutated_birch_forest"
+      },
+      {
+        "value": "mutated_birch_forest_hills"
+      }
+    ],
+    "ignoreBlocks": "AIR_AND_STRUCTURE_BLOCK"
+  }
+}

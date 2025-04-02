@@ -1,0 +1,39 @@
+{
+  "_fv": 33,
+  "_type": "structure",
+  "definition": {
+    "structure": "swamp7x7_mangrovetree1",
+    "randomlyRotateStructure": false,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 500000,
+    "minCountPerChunk": 3,
+    "maxCountPerChunk": 16,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 0,
+    "spawnXOffset": -7,
+    "spawnZOffset": -7,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "Blocks.GRASS"
+      },
+      {
+        "value": "Blocks.DIRT#0"
+      },
+      {
+        "value": "Blocks.FLOWING_WATER"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "swamp"
+      },
+      {
+        "value": "mutated_swampland"
+      }
+    ],
+    "ignoreBlocks": "AIR_AND_STRUCTURE_BLOCK"
+  }
+}

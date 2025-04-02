@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "heb:block/red_mushroom_slab",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "heb:block/red_mushroom_slab"
+    },
+    "axis=z": {
+      "model": "heb:block/red_mushroom_slab",
+      "x": 90
+    }
+  }
+}

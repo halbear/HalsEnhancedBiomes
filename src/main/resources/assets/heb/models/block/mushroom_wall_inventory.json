@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "heb:blocks/mushroom_stem",
+    "particle": "heb:blocks/mushroom_stem"
+  }
+}

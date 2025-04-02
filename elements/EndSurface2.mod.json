@@ -1,0 +1,42 @@
+{
+  "_fv": 33,
+  "_type": "structure",
+  "definition": {
+    "structure": "end_1x1_surface2",
+    "randomlyRotateStructure": false,
+    "surfaceDetectionType": "First block",
+    "spawnProbability": 1000000,
+    "minCountPerChunk": 16,
+    "maxCountPerChunk": 16,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 1,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "End"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "Blocks.END_STONE"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "end_barrens"
+      },
+      {
+        "value": "end_highlands"
+      },
+      {
+        "value": "end_midlands"
+      },
+      {
+        "value": "small_end_islands"
+      },
+      {
+        "value": "end_barrens"
+      }
+    ],
+    "ignoreBlocks": "AIR_AND_STRUCTURE_BLOCK"
+  }
+}

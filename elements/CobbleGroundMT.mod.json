@@ -1,0 +1,51 @@
+{
+  "_fv": 33,
+  "_type": "structure",
+  "definition": {
+    "structure": "mountains1x1_rock",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 1000000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 16,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 0,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "Blocks.STONE#0"
+      },
+      {
+        "value": "Blocks.GRASS"
+      },
+      {
+        "value": "Blocks.SNOW_LAYER"
+      },
+      {
+        "value": "Blocks.SNOW"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "smaller_extreme_hills"
+      },
+      {
+        "value": "mountains"
+      },
+      {
+        "value": "mutated_extreme_hills"
+      },
+      {
+        "value": "extreme_hills_with_trees"
+      },
+      {
+        "value": "snowy_mountains"
+      }
+    ],
+    "ignoreBlocks": "STRUCTURE_BLOCK"
+  }
+}

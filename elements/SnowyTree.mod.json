@@ -1,0 +1,42 @@
+{
+  "_fv": 33,
+  "_type": "structure",
+  "definition": {
+    "structure": "mountains7x9_pinetreesmall",
+    "randomlyRotateStructure": false,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 70000,
+    "minCountPerChunk": 12,
+    "maxCountPerChunk": 16,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 0,
+    "spawnXOffset": -3,
+    "spawnZOffset": -3,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "Blocks.GRASS"
+      },
+      {
+        "value": "Blocks.SNOW"
+      },
+      {
+        "value": "Blocks.SNOW_LAYER"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "snowy_mountains"
+      },
+      {
+        "value": "smaller_extreme_hills"
+      },
+      {
+        "value": "mountains"
+      }
+    ],
+    "ignoreBlocks": "AIR_AND_STRUCTURE_BLOCK"
+  }
+}

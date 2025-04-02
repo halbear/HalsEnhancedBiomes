@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "heb:blocks/transparency",
+    "up": "heb:blocks/transparency",
+    "north": "heb:blocks/transparency",
+    "east": "heb:blocks/transparency",
+    "south": "heb:blocks/transparency",
+    "west": "heb:blocks/transparency",
+    "particle": "heb:blocks/transparency"
+  }
+}

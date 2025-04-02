@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "heb:blocks/cactus_top",
+    "up": "heb:blocks/cactus_top",
+    "north": "heb:blocks/cactus_side",
+    "east": "heb:blocks/cactus_side",
+    "south": "heb:blocks/cactus_side",
+    "west": "heb:blocks/cactus_side",
+    "particle": "heb:blocks/cactus_top"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "_fv": 33,
+  "_type": "structure",
+  "definition": {
+    "structure": "badlands3x4x8abandonedtrain",
+    "randomlyRotateStructure": false,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 10500,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 1,
+    "spawnXOffset": -1,
+    "spawnZOffset": -4,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "Blocks.SAND#1"
+      },
+      {
+        "value": "Blocks.DIRT#1"
+      },
+      {
+        "value": "Blocks.STAINED_HARDENED_CLAY#0"
+      },
+      {
+        "value": "Blocks.STAINED_HARDENED_CLAY#1"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "badlands"
+      },
+      {
+        "value": "mutated_mesa"
+      }
+    ],
+    "ignoreBlocks": "AIR_AND_STRUCTURE_BLOCK"
+  }
+}

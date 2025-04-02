@@ -1,0 +1,45 @@
+{
+  "_fv": 33,
+  "_type": "structure",
+  "definition": {
+    "structure": "savanna3x6_superbigrockhehe",
+    "randomlyRotateStructure": false,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 50000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": -2,
+    "spawnXOffset": -2,
+    "spawnZOffset": -2,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "Blocks.GRASS"
+      },
+      {
+        "value": "Blocks.GRASS_PATH"
+      },
+      {
+        "value": "Blocks.DIRT#1"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "savanna"
+      },
+      {
+        "value": "savanna_rock"
+      },
+      {
+        "value": "mutated_savanna"
+      },
+      {
+        "value": "mutated_savanna_rock"
+      }
+    ],
+    "ignoreBlocks": "AIR_AND_STRUCTURE_BLOCK"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "_fv": 33,
+  "_type": "structure",
+  "definition": {
+    "structure": "end2_15x25_giantfern",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 50000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 8,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": -9,
+    "spawnXOffset": -7,
+    "spawnZOffset": -7,
+    "spawnWorldTypes": [
+      "End"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "Blocks.END_STONE"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "end_midlands"
+      }
+    ],
+    "ignoreBlocks": "AIR_AND_STRUCTURE_BLOCK"
+  }
+}

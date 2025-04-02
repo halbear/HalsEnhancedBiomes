@@ -1,0 +1,26 @@
+{
+  "_fv": 33,
+  "_type": "structure",
+  "definition": {
+    "structure": "end1_13x25_island1",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First block",
+    "spawnProbability": 100000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Air",
+    "spawnHeightOffset": 21,
+    "spawnXOffset": -6,
+    "spawnZOffset": -6,
+    "spawnWorldTypes": [
+      "End"
+    ],
+    "restrictionBlocks": [],
+    "restrictionBiomes": [
+      {
+        "value": "small_end_islands"
+      }
+    ],
+    "ignoreBlocks": "AIR_AND_STRUCTURE_BLOCK"
+  }
+}

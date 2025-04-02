@@ -1,0 +1,30 @@
+{
+  "_fv": 33,
+  "_type": "structure",
+  "definition": {
+    "structure": "end2_13x25_tree3",
+    "randomlyRotateStructure": false,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 50000,
+    "minCountPerChunk": 6,
+    "maxCountPerChunk": 16,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 1,
+    "spawnXOffset": -6,
+    "spawnZOffset": -6,
+    "spawnWorldTypes": [
+      "End"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "Blocks.END_STONE"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "end_midlands"
+      }
+    ],
+    "ignoreBlocks": "AIR_AND_STRUCTURE_BLOCK"
+  }
+}

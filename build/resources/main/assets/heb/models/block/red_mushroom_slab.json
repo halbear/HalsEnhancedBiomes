@@ -1,0 +1,8 @@
+{
+  "parent": "heb:custom/mushroomslab",
+  "textures": {
+    "all": "heb:blocks/red_mushroom_block",
+    "particle": "heb:blocks/red_mushroom_block",
+    "0": "heb:blocks/red_mushroom_block"
+  }
+}

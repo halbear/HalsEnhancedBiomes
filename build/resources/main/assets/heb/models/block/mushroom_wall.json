@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "heb:blocks/mushroom_stem",
+    "particle": "heb:blocks/mushroom_stem"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "_fv": 33,
+  "_type": "structure",
+  "definition": {
+    "structure": "end3_21x48_biggestmushroom2",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 200000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 2,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": -5,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "End"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "Blocks.END_STONE"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "end_highlands"
+      }
+    ],
+    "ignoreBlocks": "AIR_AND_STRUCTURE_BLOCK"
+  }
+}

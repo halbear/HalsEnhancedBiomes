@@ -1,0 +1,8 @@
+{
+  "parent": "heb:custom/leaves_pile_oak",
+  "textures": {
+    "all": "heb:blocks/oak_leaves",
+    "particle": "heb:blocks/oak_leaves",
+    "1": "heb:blocks/oak_leaves"
+  }
+}

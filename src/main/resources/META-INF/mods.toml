@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="heb"
+version="1.0"
+displayName="Hals Enhanced Biomes"
+credits="created by Halbear gameZ"
+displayURL="https://discord.gg/Tuv88cHMDj"
+logoFile="logo.png"
+authors="Halbear gameZ"
+description='''
+just a simple mod to improve biomes (1.16.5)
+'''
+
+[[dependencies.heb]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
